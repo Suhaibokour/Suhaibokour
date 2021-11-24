@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on any project that could develop my skills.
 - 📫 How to reach me E-mail : okoursuhaib@gmail.com Twitter : @suhaib32928664
 
-[Suhaib](https://suhaib-okour-site.netlify.app/)
+[Suhaib's portfolio](https://suhaib-okour-site.netlify.app/)
 
 <!---
 Suhaibokour/Suhaibokour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
